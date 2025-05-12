@@ -8,10 +8,10 @@ Aqui você encontra um pouco da minha trajetória acadêmica, habilidades e proj
 Sou estudante de Engenharia de Software, sempre buscando aprender algo novo na área de tecnologia.
 Tenho interesse por desenvolvimento web, música, cultura pop e esportes.
 
-📍 Localização: Cidade/Estado
+## 📍 Localização: Cidade/Estado
 Brasília-DF, Sobradinho I
 
-🛠️ Habilidades
+## 🛠️ Habilidades
 Comunicação e colaboração em equipe
 
 HTML, CSS e JavaScript básico
@@ -20,12 +20,12 @@ Inglês em nível Avançado
 
 Facilidade em se comunicar
 
-🚀 Projetos
+## 🚀 Projetos
 Site simples, feito com HTML e CSS. Primeiro projeto de site
 🔗 primeiro-site-phi-one.vercel.app
 Função: Dizer 5 frutas das quais são as melhores para sua saúde.
 
-📫 Contato
+## 📫 Contato
 Email: gilsonbil015@gmail.com
 
 GitHub: https://github.com/gilso0
