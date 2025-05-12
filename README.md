@@ -1,5 +1,5 @@
 # primeiro-site
-Gilson Henrique Pimentel Miranda – Portfólio Acadêmico
+Meu nome é Gilson, tenho 17 anos concluí o 3° do Ensino Médio Técnico recentemente, focado em eletrotécnica. Estou cursando a faculdade na área de TI, bacharelado em Engenharia de Software. Tenho interesse na área de elétrica predial, me considero uma pessoa interessada e organizada em aprender coisas novas. Realizo trabalhos voluntários desde novo, onde pude ter contato com a área administrativa e organizacional de eventos, descarga de itens, vendas em lanchonete, controle de dinheiro e etc. Possuo conhecimentos básicos em excel, word e powerpoint, pois utilizei ao decorrer dos estudos na escola, para realização de trabalhos e organização de planilhas. Possuo certificado em inglês avançado. Certificado em curso básico de redes da cisco academy.
 
 # Seja bem-vindo(a) ao meu portfólio!
 Aqui você encontra um pouco da minha trajetória acadêmica, habilidades e projetos desenvolvidos durante meus estudos em Engenharia de Software.
