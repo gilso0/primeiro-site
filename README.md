@@ -1,10 +1,10 @@
 # primeiro-site
 Gilson Henrique Pimentel Miranda – Portfólio Acadêmico
 
-Seja bem-vindo(a) ao meu portfólio!
+# Seja bem-vindo(a) ao meu portfólio!
 Aqui você encontra um pouco da minha trajetória acadêmica, habilidades e projetos desenvolvidos durante meus estudos em Engenharia de Software.
 
-👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 Sou estudante de Engenharia de Software, sempre buscando aprender algo novo na área de tecnologia.
 Tenho interesse por desenvolvimento web, música, cultura pop e esportes.
 
