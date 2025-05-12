@@ -28,7 +28,7 @@ Função: Dizer 5 frutas das quais são as melhores para sua saúde.
 📫 Contato
 Email: gilsonbil015@gmail.com
 
-GitHub: github.com/seuperfil
+GitHub: https://github.com/gilso0
 
 LinkedIn: https://www.linkedin.com/in/gilson-henrique-pimentel-miranda-2a994a357/
 
